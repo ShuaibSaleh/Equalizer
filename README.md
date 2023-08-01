@@ -89,9 +89,13 @@ the other is the streamlit_fuctions(fuctions) file which devided into 5 sections
 ## Technology_used:
 Streamlit 
 
-## team members: 
+<br>
 
-- dina mostafa
-- saad sharada 
-- sherif ahmed 
-- shauib saleh
+# Team members 
+  
+| N             | Name          |
+| ------------- | ------------- |
+| 1             | Shuaib Abdulsalam |
+| 2             | Sherif Ahmed |
+| 3             | Dina Mostafa   |
+| 4             |  Saad Sharada |
